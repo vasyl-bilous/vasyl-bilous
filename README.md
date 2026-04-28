@@ -14,7 +14,9 @@
 
 ## 📦 Open Source
 
-### [vue-circle-control-slider](https://www.npmjs.com/package/vue-circle-control-slider) &nbsp;·&nbsp; [🎮 Live Demo](https://vue-circle-control-slider.firebaseapp.com/)
+### 🎯 NPM Package
+
+#### [vue-circle-control-slider](https://www.npmjs.com/package/vue-circle-control-slider) &nbsp;·&nbsp; [🎮 Live Demo](https://vue-circle-control-slider.firebaseapp.com/)
 
 [![NPM Version](https://img.shields.io/npm/v/vue-circle-control-slider.svg)](https://www.npmjs.com/package/vue-circle-control-slider)
 [![NPM Downloads](https://img.shields.io/npm/dm/vue-circle-control-slider.svg)](https://www.npmjs.com/package/vue-circle-control-slider)
@@ -25,6 +27,16 @@ SVG-based circular slider component for Vue.js. **300+ monthly downloads** on NP
 ```bash
 npm install vue-circle-control-slider
 ```
+
+### 🤖 Custom MCP Servers (AI-Driven Development)
+
+I build my own [Model Context Protocol](https://modelcontextprotocol.io/) servers to give AI coding agents (Claude Code, Cursor, Codex) the project context they need to write better code:
+
+#### [component-library-mcp](https://github.com/vasyl-bilous/component-library-mcp)
+Scans React/Vue projects and exposes component metadata (props, slots, events, usage examples) so AI agents stop creating duplicate components, using wrong prop APIs, or breaking your design system.
+
+#### [nestjs-dev-logs-mcp](https://github.com/vasyl-bilous/nestjs-dev-logs-mcp)
+Exposes NestJS dev-server logs to AI agents through 7 structured tools — closes the feedback loop between code changes and runtime behavior. Agent writes code → triggers a flow → reads logs → self-corrects.
 
 ---
 
