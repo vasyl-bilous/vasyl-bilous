@@ -44,7 +44,7 @@ npm install vue-circle-control-slider
 ## 📫 Get in touch
 
 - **LinkedIn** — [linkedin.com/in/vasyl-bilous](https://www.linkedin.com/in/vasyl-bilous-b980b217b/)
-- **Email** — `mr.1bilous@gmail.com`
+- **Email** — `mr.1bilous+jobs@gmail.com`
 
 ---
 
