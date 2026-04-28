@@ -14,7 +14,12 @@
 
 ## 📦 Open Source
 
-### [vue-circle-control-slider](https://www.npmjs.com/package/vue-circle-control-slider)
+### [vue-circle-control-slider](https://www.npmjs.com/package/vue-circle-control-slider) &nbsp;·&nbsp; [🎮 Live Demo](https://vue-circle-control-slider.firebaseapp.com/)
+
+[![NPM Version](https://img.shields.io/npm/v/vue-circle-control-slider.svg)](https://www.npmjs.com/package/vue-circle-control-slider)
+[![NPM Downloads](https://img.shields.io/npm/dm/vue-circle-control-slider.svg)](https://www.npmjs.com/package/vue-circle-control-slider)
+[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://vue-circle-control-slider.firebaseapp.com/)
+
 SVG-based circular slider component for Vue.js. **300+ monthly downloads** on NPM.
 
 ```bash
